@@ -17,7 +17,7 @@ Desriptive title was added for SEO. Added viewport for multidevice accessibility
 
 
 
-C:\Users\devan\Desktop\BOOTCAMP\Homework\Horiseon\assets\images\ScreenshotHori1.png
+![alt= what](assets\images\ScreenshotHori1.png)
 C:\Users\devan\Desktop\BOOTCAMP\Homework\Horiseon\assets\images\ScreenshotHori2.png
 C:\Users\devan\Desktop\BOOTCAMP\Homework\Horiseon\assets\images\ScreenshotHori3.png
 
